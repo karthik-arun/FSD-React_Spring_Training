@@ -1,0 +1,4 @@
+json server 
+install json server ==>npm i --g json-server
+
+Start the server ==> json-server -w "json-filename" 

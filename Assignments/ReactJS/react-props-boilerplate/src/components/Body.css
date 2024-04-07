@@ -1,0 +1,12 @@
+.BodyContent {
+    color: blue;
+    text-align: center;
+}
+
+.BodyComponent{
+    background-color: #f0f0f0;
+}
+
+.HeaderComponent{
+    background-color: #f8f0f0;
+}

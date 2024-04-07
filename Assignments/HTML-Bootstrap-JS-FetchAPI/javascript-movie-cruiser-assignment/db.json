@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Dune:Part Two",
+      "posterPath": "/public/images/Dune-2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Godzilla:Minus one",
+      "posterPath": "/public/images/Godzilla.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Creator",
+      "posterPath": "/public/images/creator.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Oppenheimer",
+      "posterPath": "/public/images/oppenheimer.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Poor Things",
+      "posterPath": "/public/images/poor_things.jpg"
+    }
+  ],
+  "favourites": [
+   
+  ]
+}

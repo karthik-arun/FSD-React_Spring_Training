@@ -1,0 +1,20 @@
+
+Refer here : ==> https://getbootstrap.com/docs/5.3/
+Bootstrap can be added in 3 ways
+---------------------------------------
+1.from cdn
+2. download locally and use
+3. using node
+
+
+How to add using node
+------------------------------
+1.npm init  -->to create package.json
+2.npm i --save bootstrap  --> add the bootstrap dependency to package.json
+
+
+Assignment
+-----------------
+https://gitlab.stackroute.in/stack_htmlcss/bootstrap-assignment-1
+https://hobbes.stackroute.in
+

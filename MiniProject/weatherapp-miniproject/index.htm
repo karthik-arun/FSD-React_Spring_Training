@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta keywords>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="DarkSky Weather App">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="Karthik  Arun">
+
+    <!--Bootstrap-->
+    <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    <link href="css/style.css" rel="stylesheet">
+
+    <title>DarkSky</title>
+    <link rel="shortcut icon" href="images/favicon-32x32.png" type="image/png">
+
+
+</head>
+
+<body class="container-fluid" background="/images/bg-img.png">
+    <h1 class="text-center">Dark Sky Weather</h1>
+
+    <section class="row">
+
+        <div class="col-12 col-md-3">
+
+        </div>
+        <div class="col-12 col-md-6">
+
+
+            <div class="input-group mb-3 text-center">
+                <input type="text" id="cityName" class="form-control text-center" placeholder="Enter City Name"
+                    aria-label="Recipient's username" aria-describedby="button-addon2">
+                <button class="btn btn-outline-secondary" type="button" id="button-addon2"
+                    onclick="getWeather()">Search</button>
+            </div>
+
+        </div>
+        <div class="col-12 col-md-3">
+
+        </div>
+
+
+    </section>
+    <section class="row">
+
+        <div class="col-12 col-md-3">
+
+        </div>
+        <div class="col-12 col-md-6">
+            <div id="weatherDetails" class="text-center">
+            </div>
+
+        </div>
+        <div class=" col-12 col-md-3">
+
+        </div>
+
+    </section>
+    <section class="row">
+
+        <div class="col-12 col-md-3">
+
+        </div>
+        <div class="col-12 col-md-3" id="forecastDaily">
+        </div>
+        <div class="col-12 col-md-3" id="forecastHourly">
+        </div>
+
+
+        <div class=" col-12 col-md-3">
+
+        </div>
+
+    </section>
+
+
+
+
+    <script src="js/script.js"></script>
+
+</body>
+
+<footer>
+    <section class="footer-main">
+
+
+        <h6 class="d-flex justify-content-center pb-3">Copyright © 2024 Dark Sky. All rights reserved. </h6>
+    </section>
+
+</footer>
+
+</html>

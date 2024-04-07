@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+
+    <!--Bootstrap-->
+    <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    
+</head>
+
+<body>
+    <main>
+        <article>
+            <form onsubmit="getDetails(event)">
+                <a> UserName </a>
+                <input type="text" id="userName" required> <br>
+                <a>Email </a>
+                <input type="email" id="email"required> <br>
+                <a>Password </a>
+                <input type="password" id="password" required> <br>
+                <a>PhoneNumber </a>
+                <input type="number" id="phNum" required> <br>
+
+                <button class="btn btn-primary mt-3" type="submit">Submit</button>
+
+            </form>
+        </article>
+<article >
+        <h3 class="d-flex justify-content-center">User Details</h3>
+       UserName :<span id="userNameView"></span> <br>
+      Email  :<span id="emailView"></span><br>
+        PhoneNumber :<span id="phNumView"></span><br>
+    </article>
+
+        <script src="./script.js"></script>
+    </main>
+
+</body>
+
+</html>

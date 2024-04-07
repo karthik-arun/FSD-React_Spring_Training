@@ -1,0 +1,11 @@
+AJAX - Asynchronous Javascript and XML - allows webpages to communicate with server asynchronous without refresh the page
+
+
+https://developer.mozilla.org/en-US/docs/Glossary/AJAX
+
+
+Movie cruiser assignmet
+Waether app ->22/3
+
+
+openweathermap get api from here

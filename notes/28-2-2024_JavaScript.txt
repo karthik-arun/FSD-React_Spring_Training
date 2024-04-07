@@ -1,0 +1,12 @@
+JavaScript
+
+refer : https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+Array funtions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every
+
+
+Assignment
+------------
+https://gitlab.stackroute.in/stack_cts23_java/getting-started-with-javascript
+

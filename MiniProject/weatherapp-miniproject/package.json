@@ -1,0 +1,14 @@
+{
+  "name": "weatherapp-miniproject",
+  "version": "1.0.0",
+  "description": "Weather App Mini project Assignment",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karthik Arun",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

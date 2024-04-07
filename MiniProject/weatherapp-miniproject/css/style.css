@@ -1,0 +1,66 @@
+h1{
+    font-weight: bold;
+}
+
+
+h5{
+    font-weight: bold;
+}
+
+h6{
+    font-family: sans-serif;
+}
+
+a{
+    font-weight: bold;
+}
+
+.desc{
+    font-weight:bold;
+    text-decoration: none;
+}
+
+h1{
+    margin: 5rem;
+    font-size:4rem;
+}
+
+.img-title{
+    height: 10rem;
+    width: 10rem;
+    background-attachment: local;
+}
+
+span{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+
+
+
+.flex-container{
+    display:flex;
+
+}
+.t-left{
+    text-align: left;
+}
+
+
+.footer-main {
+    margin-top: auto;
+}
+
+.city{
+    font-weight: bolder;
+}
+
+body{
+    background-size: cover;
+}
+
+
+#cityName{
+    font-weight: bold;
+}

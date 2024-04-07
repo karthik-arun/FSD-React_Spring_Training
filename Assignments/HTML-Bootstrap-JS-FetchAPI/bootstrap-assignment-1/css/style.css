@@ -1,0 +1,57 @@
+/* Google fonts css*/
+.prompt-regular {
+    font-family: "Prompt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.prompt-semibold {
+    font-family: "Prompt", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.kode-mono {
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.bg-cover {
+    background-size: cover;
+    height: 90vh;
+}
+
+.video-css {
+    border-radius: 10%;
+}
+
+.video-section {
+    padding: 2%;
+}
+
+
+.footer-main {
+    background-color: black;
+    color: white;
+}
+
+/*soical media icons*/
+.fa {
+    padding: 20px;
+    text-align: center;
+    margin: 2em 1em ;
+    font-size: 30px;
+    color: black;
+    background-color: white;
+    border-radius: 50%;
+    text-decoration: none;
+    
+}
+
+.fa:hover {
+    opacity: 0.9;
+    color: antiquewhite;
+    background-color: black;
+}

@@ -1,0 +1,63 @@
+Objectives
+	- SPA
+	- PMA
+	- Different UI Framework/lobrary
+	- React cdn
+	- React cli
+	- folder structure
+	- what is component?
+	
+	
+	SPA - single page application, no relaoding of page
+	https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58
+
+	
+	----------------------------------------
+	Angular
+	React - is a libaray - latest version 18 -uses virtual dom to reload faster
+	vuejs - opensource - v3
+	
+	
+	------------------------------
+ReactJs features
+	- Declarative syntax
+	- component based arch
+	- Virtual DOM to improve performance by only updating the particular compaonent/element
+	  https://legacy.reactjs.org/docs/faq-internals.html
+	
+	- One way data binding
+	
+	- uses .jsx -> java and xml => helps you write html code insisde js code
+	
+	
+----------------------------------------
+
+CLI 
+
+command to create new react app from cli ==>	npx create-react-app <appname>
+to run the app ==> npm start
+
+------------------------------------------------
+
+Vite is a build application -> faster way to create a new react app
+
+command to create ==> npm create vite@latest
+
+to run ==> npm run dev
+
+-----------------------------------------
+
+COMPONENTS
+
+- functional components ->> shortcut to create this component --> rfc
+
+- class based components ->> shortcut to create this component --> rcc
+
+
+ES7+ --> this extension is required in VSCode for above short cut to work
+---------------------------------------------------------------------------------
+
+
+create react component
+
+react prop boilerplate
